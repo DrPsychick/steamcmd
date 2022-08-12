@@ -1,4 +1,4 @@
-# 👉 NEW LOCATION: [SickHub/arkserver](https://github.com/SickHub/steamcmd) 👈
+# 👉 NEW LOCATION: [SickHub/steamcmd](https://github.com/SickHub/steamcmd) 👈
 Moved the repo to be able to maintain it. Unfortunately my PR has not been merged and the maintainer no longer reacted.
 
 
