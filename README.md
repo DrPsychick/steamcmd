@@ -1,3 +1,9 @@
+# 👉 NEW LOCATION: [SickHub/arkserver](https://github.com/SickHub/steamcmd) 👈
+Moved the repo to be able to maintain it. Unfortunately my PR has not been merged and the maintainer no longer reacted.
+
+
+
+
 [![Build Status](https://img.shields.io/travis/com/thmhoag/steamcmd/master.svg?style=flat-square)](https://travis-ci.com/thmhoag/steamcmd) [![Docker Build Status](https://img.shields.io/docker/build/thmhoag/steamcmd.svg?style=flat-square)](https://hub.docker.com/r/thmhoag/steamcmd/builds/) 
 [![Docker Automated build](https://img.shields.io/docker/automated/thmhoag/steamcmd.svg?style=flat-square)](https://hub.docker.com/r/thmhoag/steamcmd/builds/) 
 [![Docker Pulls](https://img.shields.io/docker/pulls/thmhoag/steamcmd.svg?style=flat-square)](https://hub.docker.com/r/thmhoag/steamcmd/) 
